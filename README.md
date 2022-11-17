@@ -2,7 +2,7 @@
 
 :cat: I'm a software engineer who is passionate about  creating applications and solving problems. 
 
-:snowflake: Technologies : Javascript,Typescript,Java.
+:snowflake: Technologies : Javascript,Typescript .
 
-:octocat: Frameworks ,Libraries,and Others : HTML,CSS,ReactJS,Angular,Redux, Bootstrap,Material UI,Styled Bootstrap,ReactBootstrap,FontAwesome.
+:octocat: Frameworks ,Libraries,and Others : HTML,CSS,ReactJS,Angular,Redux, Bootstrap,Material UI,Styled Components, Bootstrap,ReactBootstrap,FontAwesome,Node.js .
 
