@@ -4,5 +4,5 @@
 
 :snowflake: Technologies : Javascript,Typescript .
 
-:octocat: Frameworks ,Libraries,and Others : HTML,CSS,ReactJS,Angular,Redux, Bootstrap,Material UI,Styled Components, Bootstrap,ReactBootstrap,FontAwesome,Node.js .
+:octocat: Frameworks ,Libraries,and Others :  HTML,CSS,ReactJS,Angular,Redux,Node.js, Bootstrap,Material UI,Styled components and Bootstrap.
 
